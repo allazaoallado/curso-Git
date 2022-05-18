@@ -1,2 +1,3 @@
-#GIT
-Nesse reposítorio irei criar o que estou aprendendo em Git.
+# GIT
+
+Nesse reposítorio irei criar um HTML do que estou aprendendo em Git.
